@@ -29,7 +29,7 @@ body {
 
 a {
 	color: var(--text-color);
-	text: none;
+	text-decoration: none;
 }
 
 html {
