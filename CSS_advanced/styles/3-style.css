@@ -22,3 +22,7 @@ a {
 .card-category {
 	color: var(--color-primary);
 }
+
+.visually-hidden {
+	display: none;
+}
